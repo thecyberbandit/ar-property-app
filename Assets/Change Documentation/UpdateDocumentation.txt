@@ -1,0 +1,16 @@
+Project name: 3D Color Magic
+Client: ACI
+Platform: Mobile(Android, IOS)
+
+Version 1.0.1:
+
+Books: Animals, Toys(Colorable)
+
+Version 2.0.1:
+
+Books: Animals, Toys(Colorable)
+
+Changes: A new Character type is introduced in CustomTrackingEventHandler
+
+Script name: CustomTrackingEventHandler.cs
+			Line Number: 19,78,204,241

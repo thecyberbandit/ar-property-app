@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 6d9aa835984bf914c8142e76032c8515
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arch29_021_07.002
+    100002: Arch29_021_07.003
+    100004: Arch29_021_07.008
+    100006: Arch29_021_07.009
+    100008: Archmodels65_07_02.001
+    100010: Archmodels65_07_03.001
+    100012: Archmodels65_07_05.001
+    100014: cgaxis_models_37_47_01_3.001
+    100016: cgaxis_models_37_47_01_3.004
+    100018: Cube.172
+    100020: Cube.173
+    100022: Cube.174
+    100024: //RootNode
+    100026: Empty.013
+    100028: Empty.014
+    100030: Plane.035
+    100032: Plane.036
+    100034: Plane.040
+    100036: Plane.041
+    100038: Plane.042
+    100040: Plane.043
+    100042: Plane.044
+    100044: Plane.045
+    100046: Plane.046
+    100048: Plane.047
+    400000: Arch29_021_07.002
+    400002: Arch29_021_07.003
+    400004: Arch29_021_07.008
+    400006: Arch29_021_07.009
+    400008: Archmodels65_07_02.001
+    400010: Archmodels65_07_03.001
+    400012: Archmodels65_07_05.001
+    400014: cgaxis_models_37_47_01_3.001
+    400016: cgaxis_models_37_47_01_3.004
+    400018: Cube.172
+    400020: Cube.173
+    400022: Cube.174
+    400024: //RootNode
+    400026: Empty.013
+    400028: Empty.014
+    400030: Plane.035
+    400032: Plane.036
+    400034: Plane.040
+    400036: Plane.041
+    400038: Plane.042
+    400040: Plane.043
+    400042: Plane.044
+    400044: Plane.045
+    400046: Plane.046
+    400048: Plane.047
+    2100000: Plan B _props 01
+    2100002: glass
+    2100004: showcase
+    2300000: Arch29_021_07.002
+    2300002: Arch29_021_07.003
+    2300004: Arch29_021_07.008
+    2300006: Arch29_021_07.009
+    2300008: Archmodels65_07_02.001
+    2300010: Archmodels65_07_03.001
+    2300012: Archmodels65_07_05.001
+    2300014: cgaxis_models_37_47_01_3.001
+    2300016: cgaxis_models_37_47_01_3.004
+    2300018: Cube.172
+    2300020: Cube.173
+    2300022: Cube.174
+    2300024: Plane.035
+    2300026: Plane.036
+    2300028: Plane.040
+    2300030: Plane.041
+    2300032: Plane.042
+    2300034: Plane.043
+    2300036: Plane.044
+    2300038: Plane.045
+    2300040: Plane.046
+    2300042: Plane.047
+    3300000: Arch29_021_07.002
+    3300002: Arch29_021_07.003
+    3300004: Arch29_021_07.008
+    3300006: Arch29_021_07.009
+    3300008: Archmodels65_07_02.001
+    3300010: Archmodels65_07_03.001
+    3300012: Archmodels65_07_05.001
+    3300014: cgaxis_models_37_47_01_3.001
+    3300016: cgaxis_models_37_47_01_3.004
+    3300018: Cube.172
+    3300020: Cube.173
+    3300022: Cube.174
+    3300024: Plane.035
+    3300026: Plane.036
+    3300028: Plane.040
+    3300030: Plane.041
+    3300032: Plane.042
+    3300034: Plane.043
+    3300036: Plane.044
+    3300038: Plane.045
+    3300040: Plane.046
+    3300042: Plane.047
+    4300000: Plane.047
+    4300002: Plane.046
+    4300004: Plane.045
+    4300006: Plane.044
+    4300008: Plane.043
+    4300010: Plane.042
+    4300012: Plane.041
+    4300014: Plane.040
+    4300016: Plane.036
+    4300018: Cube.174
+    4300020: Cube.173
+    4300022: Arch29_021_07.009
+    4300024: Arch29_021_07.008
+    4300026: Arch29_021_07.003
+    4300028: Arch29_021_07.002
+    4300030: Plane.035
+    4300032: cgaxis_models_37_47_01_3.004
+    4300034: cgaxis_models_37_47_01_3.001
+    4300036: Archmodels65_07_05.001
+    4300038: Archmodels65_07_02.001
+    4300040: Archmodels65_07_03.001
+    4300042: Cube.172
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

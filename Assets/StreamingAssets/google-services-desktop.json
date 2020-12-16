@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573725487514",
+    "firebase_url": "https://d-color-magic-64606298.firebaseio.com",
+    "project_id": "d-color-magic-64606298",
+    "storage_bucket": "d-color-magic-64606298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573725487514:android:912d62c30bc85764",
+        "android_client_info": {
+          "package_name": "com.Alienide.arbook2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573725487514-0q3qsnnpji3pkeltun6rtbgt1c8i88vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Alienide.arbook2",
+            "certificate_hash": "97acd50b01bd4b955e75545e907c056f635d7ef3"
+          }
+        },
+        {
+          "client_id": "573725487514-c9b503o3batipmob890isdcfppbim9nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMP0bo_Djw7MIcFaeuEXutRYMkWRsSFc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573725487514-c9b503o3batipmob890isdcfppbim9nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

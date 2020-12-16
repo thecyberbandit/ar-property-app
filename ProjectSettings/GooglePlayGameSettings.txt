@@ -1,0 +1,9 @@
+lastUpgrade=00953
+proj.pluginVersion=0.9.53
+proj.AppId=573725487514
+and.BundleId=com.Alienide.arbook2
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e573725487514%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Alienide.arbook2%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Cars+%26amp%3b+Toys+Book+Unlocked+--%3e%0d%0a++%3cstring+name%3d%22achievement_cars__toys_book_unlocked%22+translatable%3d%22false%22%3eCgkImuPQpdkQEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Animal+Kingdom+Book+Unlocked+--%3e%0d%0a++%3cstring+name%3d%22achievement_animal_kingdom_book_unlocked%22+translatable%3d%22false%22%3eCgkImuPQpdkQEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Wonders+of+the+world+Book+Unlocked+--%3e%0d%0a++%3cstring+name%3d%22achievement_wonders_of_the_world_book_unlocked%22+translatable%3d%22false%22%3eCgkImuPQpdkQEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Fruits+World+Book+Unlocked+--%3e%0d%0a++%3cstring+name%3d%22achievement_fruits_world_book_unlocked%22+translatable%3d%22false%22%3eCgkImuPQpdkQEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=573725487514-c9b503o3batipmob890isdcfppbim9nd.apps.googleusercontent.com
+android.SetupDone=true

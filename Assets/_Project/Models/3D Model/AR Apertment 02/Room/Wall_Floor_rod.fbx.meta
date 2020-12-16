@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: e8d268ba16790194a8649afd8ceacf93
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube.001
+    100002: Cube.140
+    100004: Cube.141
+    100006: Cube.142
+    100008: Cube.143
+    100010: Cube.144
+    100012: Cube.145
+    100014: Cube.146
+    100016: Cube.147
+    100018: Floor.001
+    100020: Plane.016
+    100022: Plane.051
+    100024: Plane.052
+    100026: Plane.053
+    100028: Plane.054
+    100030: Plane.055
+    100032: Plane.056
+    100034: Plane.057
+    100036: Plane.058
+    100038: //RootNode
+    100040: Plane.019
+    400000: Cube.001
+    400002: Cube.140
+    400004: Cube.141
+    400006: Cube.142
+    400008: Cube.143
+    400010: Cube.144
+    400012: Cube.145
+    400014: Cube.146
+    400016: Cube.147
+    400018: Floor.001
+    400020: Plane.016
+    400022: Plane.051
+    400024: Plane.052
+    400026: Plane.053
+    400028: Plane.054
+    400030: Plane.055
+    400032: Plane.056
+    400034: Plane.057
+    400036: Plane.058
+    400038: //RootNode
+    400040: Plane.019
+    2100000: PlanB_baked_ROD
+    2100002: Baked_PB_floor
+    2100004: Door 02
+    2100006: Baked_PlanB_wall
+    2300000: Cube.001
+    2300002: Cube.140
+    2300004: Cube.141
+    2300006: Cube.142
+    2300008: Cube.143
+    2300010: Cube.144
+    2300012: Cube.145
+    2300014: Cube.146
+    2300016: Cube.147
+    2300018: Floor.001
+    2300020: Plane.016
+    2300022: Plane.051
+    2300024: Plane.052
+    2300026: Plane.053
+    2300028: Plane.054
+    2300030: Plane.055
+    2300032: Plane.056
+    2300034: Plane.057
+    2300036: Plane.058
+    2300038: Plane.019
+    3300000: Cube.001
+    3300002: Cube.140
+    3300004: Cube.141
+    3300006: Cube.142
+    3300008: Cube.143
+    3300010: Cube.144
+    3300012: Cube.145
+    3300014: Cube.146
+    3300016: Cube.147
+    3300018: Floor.001
+    3300020: Plane.016
+    3300022: Plane.051
+    3300024: Plane.052
+    3300026: Plane.053
+    3300028: Plane.054
+    3300030: Plane.055
+    3300032: Plane.056
+    3300034: Plane.057
+    3300036: Plane.058
+    3300038: Plane.019
+    4300000: Cube.001
+    4300002: Floor.001
+    4300004: Cube.147
+    4300006: Plane.058
+    4300008: Cube.146
+    4300010: Plane.057
+    4300012: Plane.056
+    4300014: Cube.145
+    4300016: Cube.144
+    4300018: Plane.055
+    4300020: Plane.054
+    4300022: Cube.143
+    4300024: Plane.053
+    4300026: Cube.142
+    4300028: Plane.052
+    4300030: Cube.141
+    4300032: Cube.140
+    4300034: Plane.051
+    4300036: Plane.016
+    4300038: Plane.019
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baked_PB_floor
+    second: {fileID: 2100000, guid: 55a4801fec9beab499c33d01cd7cd18d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door 02
+    second: {fileID: 2100000, guid: 9f19b52339e39f64e805d0f06a354e36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outer wall
+    second: {fileID: 2100000, guid: 78531102b14e5474b8935966f7e01e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlanB_baked_ROD
+    second: {fileID: 2100000, guid: 1cd1e9cfe68df094e9b360fdcb40ce4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_under
+    second: {fileID: 2100000, guid: 83317912585650b4fbe2bb1e62ad837e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_under.001
+    second: {fileID: 2100000, guid: 63b218b17e0ebfd499d404b82918c58e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: divide
+    second: {fileID: 2100000, guid: c0c44c4bb1302d149b0ae42e7e0b0e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: a12ae5b54eaf03044aa33c2be9415a1e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

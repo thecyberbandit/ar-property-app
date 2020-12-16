@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>573725487514-dsf9dg9jclgsa27feu4qiduseo6qv20r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.573725487514-dsf9dg9jclgsa27feu4qiduseo6qv20r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>573725487514-0q3qsnnpji3pkeltun6rtbgt1c8i88vs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDS_uZqeyoKoPIdJ0VEVDH5l8euwPBo_XQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>573725487514</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Alienide.arbook2</string>
+	<key>PROJECT_ID</key>
+	<string>d-color-magic-64606298</string>
+	<key>STORAGE_BUCKET</key>
+	<string>d-color-magic-64606298.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:573725487514:ios:912d62c30bc85764</string>
+	<key>DATABASE_URL</key>
+	<string>https://d-color-magic-64606298.firebaseio.com</string>
+</dict>
+</plist>

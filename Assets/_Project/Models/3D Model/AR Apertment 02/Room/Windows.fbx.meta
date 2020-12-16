@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: f24685b61fd236549bcf2ff92cb87f71
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube.041
+    100002: Cube.042
+    100004: Cube.043
+    100006: Cube.044
+    100008: Cube.046
+    100010: Cube.048
+    100012: Cube.050
+    100014: Cube.059
+    100016: Cube.158
+    100018: Cube.159
+    100020: Cube.160
+    100022: Cube.161
+    100024: Cube.162
+    100026: Cube.163
+    100028: Cube.164
+    100030: Cube.165
+    100032: Cube.166
+    100034: Cube.167
+    100036: Cube.168
+    100038: Cube.169
+    100040: Plane.033
+    100042: Plane.034
+    100044: //RootNode
+    100046: Cube.170
+    100048: Cube.171
+    400000: Cube.041
+    400002: Cube.042
+    400004: Cube.043
+    400006: Cube.044
+    400008: Cube.046
+    400010: Cube.048
+    400012: Cube.050
+    400014: Cube.059
+    400016: Cube.158
+    400018: Cube.159
+    400020: Cube.160
+    400022: Cube.161
+    400024: Cube.162
+    400026: Cube.163
+    400028: Cube.164
+    400030: Cube.165
+    400032: Cube.166
+    400034: Cube.167
+    400036: Cube.168
+    400038: Cube.169
+    400040: Plane.033
+    400042: Plane.034
+    400044: //RootNode
+    400046: Cube.170
+    400048: Cube.171
+    2100000: glass.001
+    2100002: Baked window_plan B
+    2100004: White_glass
+    2300000: Cube.041
+    2300002: Cube.042
+    2300004: Cube.043
+    2300006: Cube.044
+    2300008: Cube.046
+    2300010: Cube.048
+    2300012: Cube.050
+    2300014: Cube.059
+    2300016: Cube.158
+    2300018: Cube.159
+    2300020: Cube.160
+    2300022: Cube.161
+    2300024: Cube.162
+    2300026: Cube.163
+    2300028: Cube.164
+    2300030: Cube.165
+    2300032: Cube.166
+    2300034: Cube.167
+    2300036: Cube.168
+    2300038: Cube.169
+    2300040: Plane.033
+    2300042: Plane.034
+    2300044: Cube.170
+    2300046: Cube.171
+    3300000: Cube.041
+    3300002: Cube.042
+    3300004: Cube.043
+    3300006: Cube.044
+    3300008: Cube.046
+    3300010: Cube.048
+    3300012: Cube.050
+    3300014: Cube.059
+    3300016: Cube.158
+    3300018: Cube.159
+    3300020: Cube.160
+    3300022: Cube.161
+    3300024: Cube.162
+    3300026: Cube.163
+    3300028: Cube.164
+    3300030: Cube.165
+    3300032: Cube.166
+    3300034: Cube.167
+    3300036: Cube.168
+    3300038: Cube.169
+    3300040: Plane.033
+    3300042: Plane.034
+    3300044: Cube.170
+    3300046: Cube.171
+    4300000: Cube.168
+    4300002: Cube.165
+    4300004: Cube.158
+    4300006: Plane.034
+    4300008: Plane.033
+    4300010: Cube.048
+    4300012: Cube.161
+    4300014: Cube.160
+    4300016: Cube.042
+    4300018: Cube.041
+    4300020: Cube.162
+    4300022: Cube.043
+    4300024: Cube.163
+    4300026: Cube.044
+    4300028: Cube.164
+    4300030: Cube.046
+    4300032: Cube.166
+    4300034: Cube.050
+    4300036: Cube.167
+    4300038: Cube.059
+    4300040: Cube.169
+    4300042: Cube.159
+    4300044: Cube.171
+    4300046: Cube.170
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baked window_plan B
+    second: {fileID: 2100000, guid: 29dc03c1ccfbb1f4292f1386785c9e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_glass
+    second: {fileID: 2100000, guid: f39ff576d89bc734fbb5031f2923928d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.001
+    second: {fileID: 2100000, guid: feb4236dcf8516b468c2f2a867907a1d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 0bfd41f1a10279e479b8c3da93144a68
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: all_bed2.001
+    100002: all_bed2.003
+    100004: all_bed2.006
+    100006: //RootNode
+    100008: cabinet.001
+    100010: cabinet.003
+    100012: cabinet.006
+    100014: cabinet.012
+    100016: cabinet.013
+    100018: carpet.000
+    100020: painting1.000
+    100022: painting1.003
+    100024: painting1.008
+    100026: painting1.009
+    100028: painting2.000
+    100030: painting2.003
+    100032: painting2.008
+    100034: painting2.009
+    100036: painting3.000
+    100038: painting3.005
+    100040: painting3.006
+    100042: side_table.001
+    100044: side_table.003
+    100046: side_table.005
+    100048: side_table3.000
+    100050: side_table3.002
+    100052: side_table3.005
+    100054: carpet.002
+    100056: carpet.004
+    400000: all_bed2.001
+    400002: all_bed2.003
+    400004: all_bed2.006
+    400006: //RootNode
+    400008: cabinet.001
+    400010: cabinet.003
+    400012: cabinet.006
+    400014: cabinet.012
+    400016: cabinet.013
+    400018: carpet.000
+    400020: painting1.000
+    400022: painting1.003
+    400024: painting1.008
+    400026: painting1.009
+    400028: painting2.000
+    400030: painting2.003
+    400032: painting2.008
+    400034: painting2.009
+    400036: painting3.000
+    400038: painting3.005
+    400040: painting3.006
+    400042: side_table.001
+    400044: side_table.003
+    400046: side_table.005
+    400048: side_table3.000
+    400050: side_table3.002
+    400052: side_table3.005
+    400054: carpet.002
+    400056: carpet.004
+    2100000: Baked Props 02_planB
+    2100002: carpet_table_lemp
+    2300000: all_bed2.001
+    2300002: all_bed2.003
+    2300004: all_bed2.006
+    2300006: cabinet.001
+    2300008: cabinet.003
+    2300010: cabinet.006
+    2300012: cabinet.012
+    2300014: cabinet.013
+    2300016: carpet.000
+    2300018: painting1.000
+    2300020: painting1.003
+    2300022: painting1.008
+    2300024: painting1.009
+    2300026: painting2.000
+    2300028: painting2.003
+    2300030: painting2.008
+    2300032: painting2.009
+    2300034: painting3.000
+    2300036: painting3.005
+    2300038: painting3.006
+    2300040: side_table.001
+    2300042: side_table.003
+    2300044: side_table.005
+    2300046: side_table3.000
+    2300048: side_table3.002
+    2300050: side_table3.005
+    2300052: carpet.002
+    2300054: carpet.004
+    3300000: all_bed2.001
+    3300002: all_bed2.003
+    3300004: all_bed2.006
+    3300006: cabinet.001
+    3300008: cabinet.003
+    3300010: cabinet.006
+    3300012: cabinet.012
+    3300014: cabinet.013
+    3300016: carpet.000
+    3300018: painting1.000
+    3300020: painting1.003
+    3300022: painting1.008
+    3300024: painting1.009
+    3300026: painting2.000
+    3300028: painting2.003
+    3300030: painting2.008
+    3300032: painting2.009
+    3300034: painting3.000
+    3300036: painting3.005
+    3300038: painting3.006
+    3300040: side_table.001
+    3300042: side_table.003
+    3300044: side_table.005
+    3300046: side_table3.000
+    3300048: side_table3.002
+    3300050: side_table3.005
+    3300052: carpet.002
+    3300054: carpet.004
+    4300000: all_bed2.006
+    4300002: carpet.000
+    4300004: side_table3.005
+    4300006: side_table.005
+    4300008: cabinet.013
+    4300010: cabinet.012
+    4300012: side_table.003
+    4300014: side_table3.002
+    4300016: all_bed2.003
+    4300018: cabinet.006
+    4300020: cabinet.003
+    4300022: all_bed2.001
+    4300024: side_table3.000
+    4300026: side_table.001
+    4300028: cabinet.001
+    4300030: painting2.009
+    4300032: painting3.006
+    4300034: painting1.009
+    4300036: painting1.008
+    4300038: painting3.005
+    4300040: painting2.008
+    4300042: painting2.003
+    4300044: painting1.003
+    4300046: painting2.000
+    4300048: painting3.000
+    4300050: painting1.000
+    4300052: carpet.004
+    4300054: carpet.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baked Props 02_planB
+    second: {fileID: 2100000, guid: 6698b8f9355294d42883ee21bc26fdf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpet_table_lemp
+    second: {fileID: 2100000, guid: 048970c12646c094bb76bfee1842d987, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
